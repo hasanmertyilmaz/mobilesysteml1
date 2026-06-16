@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">First Programs</string>
+    <string name="title_introduce">Introduce Yourself</string>
+    <string name="title_guess">Number Guessing Game</string>
+
+    <!-- Part A -->
+    <string name="hello_world">Hello World</string>
+    <string name="btn_part_b">Program 2: Introduce Yourself</string>
+    <string name="btn_part_c">Program 3: Number Guessing Game</string>
+
+    <!-- Part B -->
+    <string name="intro_prompt">Enter your name and press the Witaj button.</string>
+    <string name="hint_name">Enter your name</string>
+    <string name="btn_witaj">Witaj</string>
+    <string name="msg_witaj">Witaj %1$s</string>
+    <string name="msg_introduce_empty">Przedstaw się.</string>
+
+    <!-- Part C -->
+    <string name="guess_instructions">The app picked a random number from 1 to 10.\nYou win only if you guess it on your 2nd attempt!</string>
+    <string name="hint_guess">Enter a number from 1 to 10</string>
+    <string name="btn_check">Check</string>
+    <string name="btn_new_game">New game</string>
+    <string name="attempt_label">Attempt: %1$d</string>
+    <string name="msg_too_small">Value too small</string>
+    <string name="msg_too_large">Value too large</string>
+    <string name="msg_correct_second">Correct — achieved on the 2nd attempt</string>
+    <string name="msg_correct_not_second">Correct, but not on the 2nd attempt. Try again.</string>
+    <string name="msg_not_integer">Please enter an integer number.</string>
+    <string name="msg_out_of_range">Number must be in range 1..10.</string>
+</resources>
